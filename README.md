@@ -1,10 +1,13 @@
-<h1>Hi, I'm Stephen! <br/> <a href="https://www.linkedin.com/in/stephenabner/">Cybersecurity Analyst</a>, <a href="">YouTuber</a></h1>
+<h1>Hi, I'm Stephen! <br/> <a href="https://www.linkedin.com/in/stephenabner/">Cybersecurity Analyst</a> <!--<a href="">YouTube</a></h1> -->
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/joshmadakor1/AD_PS)
 
 <h2>📃 Certifications</h2>
+
+  - [Google Cybersecurity Professional Cert]()
+
 
 <h2> Popular YouTube Videos</h2>
 
