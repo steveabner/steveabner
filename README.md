@@ -1,4 +1,4 @@
-<h1>Hi, I'm Steve! <br/> <a href="https://www.linkedin.com/in/stephenabner/">LinkedIn</a>, <a href="">YouTuber</a></h1>
+<h1>Hi, I'm Steve! <br/> <a href="https://www.linkedin.com/in/stephenabner/">Cybersecurity Analyst</a>, <a href="">YouTuber</a></h1>
 
 <h2>👨‍💻 Cybersecurity:</h2>
 
