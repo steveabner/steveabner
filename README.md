@@ -15,7 +15,7 @@
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Stevebbner | YouTube" width="22px" src="[https://icons8.com/icon/19318/youtube]" />][youtube]
-[<img align="left" alt="Stevebbner | LinkedIn" width="22px" src="[https://banner2.cleanpng.com/20180802/kpw/kisspng-social-media-business-cards-logo-linkedin-5b62b77502bdb7.8920117715331961490112.jpg](https://img.icons8.com/glyph-neue/64/228BE6/linkedin.png" alt="linkedin)" />][linkedin]
+[<img align="left" alt="Stevebbner | LinkedIn" width="22px" src="https://img.icons8.com/glyph-neue/64/228BE6/linkedin.png" alt="linkedin" />][linkedin]
 <!--[<img align="left" alt="Steveabner | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Steveabner| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
 -->
