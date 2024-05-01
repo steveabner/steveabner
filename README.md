@@ -6,7 +6,7 @@
 
 <h2>📃 Certifications</h2>
 
-  - [Google Cybersecurity Professional Cert]()
+  - [Google Cybersecurity Professional Cert](https://www.coursera.org/account/accomplishments/specialization/F2H3SA6KQJB5)
 
 
 <h2> YouTube Videos</h2>
