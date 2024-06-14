@@ -2,11 +2,13 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Active Directory Home Lab]()
+- <b>Azure / Cloud Projects</b>
+  - [Creating a Live SOC / Honeynet in Azure](https://github.com/steveabner/Cloud-SOC)
 
 <h2>📃 Certifications</h2>
 
-  - [Google Cybersecurity Professional Cert](https://www.coursera.org/account/accomplishments/specialization/F2H3SA6KQJB5)
+  - [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/F2H3SA6KQJB5)
+  - [Leveld Cybersecurity Masterclass Certificate](https://app.kajabi.com/certificates/27bce230)
 
 
 <h2> YouTube Videos</h2>
