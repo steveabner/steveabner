@@ -1,5 +1,5 @@
-<h1>Hi, I'm Stephen! <br/> <a href="https://www.linkedin.com/in/stephenabner/">Cybersecurity Enthusiast | 
-Building Skills in Network Security and Microsoft Azure</a> <!--<a href="">YouTube</a></h1> -->
+<h1>Hi, I'm Stephen! <br/> <a href="https://www.linkedin.com/in/stephenabner/">Cybersecurity Enthusiast</a> <!--<a href="">YouTube</a></h1> -->
+<a>Building Skills in Network Security and Microsoft Azure/</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
