@@ -1,4 +1,4 @@
-<h1>Hi, I'm Stephen! <br/> <a href="https://www.linkedin.com/in/stephenabner/">Cybersecurity Enthusiast</a> <!--<a href="">YouTube</a></h1> -->
+<h1>Hi, I'm Stephen! <br/> <a href="https://www.linkedin.com/in/stephenabner/">Cybersecurity Enthusiast & Student</a> <!--<a href="">YouTube</a></h1> -->
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
