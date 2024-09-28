@@ -4,6 +4,8 @@
 
 - <b>Azure / Cloud Projects</b>
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/steveabner/Cloud-SOC)
+- <b>Azure / Cloud Projects</b>
+  - [Creating a Live SOC / Honeynet in Azure](https://github.com/steveabner/Vulnerability-Management)
 
 <h2>📃 Certifications</h2>
 
