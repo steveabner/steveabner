@@ -4,8 +4,10 @@
 
 - <b>Azure / Cloud Projects</b>
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/steveabner/Cloud-SOC)
+  - 
 - <b>Vulnerability Management Lab</b>
   - [OpenVAS Vulnerability Management Scanner](https://github.com/steveabner/Vulnerability-Management)
+  - 
 - <b>Challenges</b>
   - [30-Day MyDFIR SOC Analyst Challenge](https://github.com/steveabner/MyDFIR-SOC-Analyst-challenge)
 
