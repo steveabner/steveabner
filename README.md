@@ -7,6 +7,8 @@
 - <b>Vulnerability Management Lab</b>
   - [OpenVAS Vulnerability Management Scanner](https://github.com/steveabner/Vulnerability-Management)
 
+  - [30-Day MyDFIR SOC Analyst Challenge](https://github.com/steveabner/MyDFIR-SOC-Analyst-challenge)
+
 <h2>📃 Certifications</h2>
 
   - [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/F2H3SA6KQJB5)
