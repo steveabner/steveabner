@@ -15,6 +15,7 @@
 
   - [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/F2H3SA6KQJB5)
   - [Leveld Cybersecurity Masterclass Certificate](https://app.kajabi.com/certificates/27bce230)
+  - [Simply Cyber - Cybersecurity 101 Certificate]()
 
 
 <h2> YouTube Videos</h2>
