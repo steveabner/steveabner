@@ -8,8 +8,8 @@
 - <b>Vulnerability Management Lab</b>
   - [OpenVAS Vulnerability Management Scanner](https://github.com/steveabner/Vulnerability-Management)
     
-- <b>Challenges</b>
-  - [30-Day MyDFIR SOC Analyst Challenge](https://github.com/steveabner/MyDFIR-SOC-Analyst-challenge)
+<!--- <b>Challenges</b>
+  - [30-Day MyDFIR SOC Analyst Challenge](https://github.com/steveabner/MyDFIR-SOC-Analyst-challenge) -->
 
 <h2>📃 Certifications</h2>
 
