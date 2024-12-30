@@ -3,7 +3,7 @@
 <h2>👨‍💻 My Projects:</h2>
 
 - <b>Helpdesk Projects</b>
-  - [VirtualBox Server 2016 Helpdesk Lab]()
+  - [VirtualBox Server 2016 Helpdesk / HomeLab]()
 
 - <b>Azure / Cloud Projects</b>
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/steveabner/Cloud-SOC)
