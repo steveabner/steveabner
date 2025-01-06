@@ -2,12 +2,10 @@
 
 <h2>👨‍💻 My Projects:</h2>
 
-- <b>Helpdesk Projects</b>
-
-  - <b>Active Directory (Help Desk Homelab)</b>
+- <b>Active Directory (Help Desk Homelab)</b>
   - [Active Directory Homelab using VirtualBox & Server 2019](https://github.com/steveabner/S2016-Helpdesk/tree/main)
 
-  - <b>osTicket (Help Desk Ticketing System)</b>
+- <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/steveabner/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/steveabner/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/steveabner/ticket-lifecycle)
