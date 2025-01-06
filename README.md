@@ -6,11 +6,9 @@
   - [osTicket: Prerequisites and Installation](https://github.com/steveabner/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/steveabner/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/steveabner/ticket-lifecycle)
-
 - <b>Microsoft Azure</b>
   - [Active Directory Homelab using VirtualBox & Server 2019](https://github.com/steveabner/S2016-Helpdesk/tree/main)
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/steveabner/Cloud-SOC)
-
 - <b>Vulnerability Management Labs</b>
   - [OpenVAS Vulnerability Management Scanner](https://github.com/steveabner/Vulnerability-Management)
 
