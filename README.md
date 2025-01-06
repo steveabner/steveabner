@@ -1,4 +1,4 @@
-<h1>Hi, I'm Stephen, an <a href="https://www.linkedin.com/in/stephenabner/">Cybersecurity Enthusiast & Aspiring Helpdesk Support Specialist</a>☺</h1> 
+<h1>Hi, I'm Stephen a <a href="https://www.linkedin.com/in/stephenabner/">Cybersecurity Enthusiast & Aspiring Helpdesk Support Specialist</a>☺</h1> 
 
 <h2>👨‍💻 My Projects:</h2>
 
