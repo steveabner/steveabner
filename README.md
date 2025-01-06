@@ -2,21 +2,18 @@
 ### [Cybersecurity Enthusiast & Aspiring Helpdesk Support Specialist](https://www.linkedin.com/in/stephenabner/)  
 ---
 
-## 👨‍💻 My Projects:
+<h2>👨‍💻 My Projects:</h2>
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/steveabner/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/steveabner/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/steveabner/ticket-lifecycle)
 
-### Active Directory (Help Desk Homelab)
-- [Active Directory Homelab using VirtualBox & Server 2019](https://github.com/steveabner/S2016-Helpdesk/tree/main)
+- <b>Microsoft Azure</b>
+  - [Active Directory Homelab using VirtualBox & Server 2019](https://github.com/steveabner/S2016-Helpdesk/tree/main)
+  - [Creating a Live SOC / Honeynet in Azure](https://github.com/steveabner/Cloud-SOC)
 
-### osTicket (Help Desk Ticketing System)
-- [osTicket: Prerequisites and Installation](https://github.com/steveabner/osticket-prereqs)
-- [osTicket: Post-Installation Configuration](https://github.com/steveabner/post-install-config)
-- [osTicket: Ticket Lifecycle Examples](https://github.com/steveabner/ticket-lifecycle)
-
-### Azure / Cloud Projects
-- [Creating a Live SOC / Honeynet in Azure](https://github.com/steveabner/Cloud-SOC)
-
-### Vulnerability Management Lab
-- [OpenVAS Vulnerability Management Scanner](https://github.com/steveabner/Vulnerability-Management)
+- <b>Vulnerability Management Labs</b>
+  - [OpenVAS Vulnerability Management Scanner](https://github.com/steveabner/Vulnerability-Management)
 
 ---
 
@@ -29,7 +26,3 @@
 
 ## 🤳 Connect with Me:
 [<img align="left" alt="Stephen's LinkedIn" width="45px" src="https://img.icons8.com/glyph-neue/64/228BE6/linkedin.png" />](https://www.linkedin.com/in/stephenabner/)
-
----
-
-
