@@ -5,7 +5,7 @@
 - <b>Helpdesk Projects</b>
   - [Active Directory Homelab using VirtualBox & Server 2019](https://github.com/steveabner/S2016-Helpdesk/tree/main)
   - [osTicket Homelab]()
-  - 
+    
 - <b>Azure / Cloud Projects</b>
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/steveabner/Cloud-SOC)
     
