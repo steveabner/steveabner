@@ -9,7 +9,7 @@
 - <b>Microsoft Azure</b>
   - [Active Directory Homelab using VirtualBox & Server 2019](https://github.com/steveabner/S2016-Helpdesk/tree/main)
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/steveabner/Cloud-SOC)
-  - -[Set a VPN in Azure]()
+  - [Setup a VPN in Azure]()
 - <b>Vulnerability Management Labs</b>
   - [OpenVAS Vulnerability Management Scanner](https://github.com/steveabner/Vulnerability-Management)
 
