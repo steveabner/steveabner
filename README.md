@@ -3,8 +3,8 @@
 <h2>👨‍💻 My Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Active Directory Homelab using VirtualBox & Server 2019](https://github.com/steveabner/S2016-Helpdesk/tree/main)
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/steveabner/Cloud-SOC)
+  - [Active Directory Homelab using VirtualBox & Server 2019](https://github.com/steveabner/S2016-Helpdesk/tree/main)
   - [Setup a VPN in Azure]()
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/steveabner/osticket-prereqs)
