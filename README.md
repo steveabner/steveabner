@@ -20,10 +20,8 @@ I am especially interested in Security Operations, Blue Team operations, vulnera
 
 | Skill                                          | Associated Project                                                                             |
 | ---------------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| Active Directory Deployment and Administration | [Active Directory Homelab](https://github.com/steveabner/S2016-Helpdesk)                       |
-| Windows Server and User Management             | [Active Directory Homelab](https://github.com/steveabner/S2016-Helpdesk)                       |
-| SIEM Deployment and Log Analysis               | [Azure Cloud SOC / Honeynet](https://github.com/steveabner/Cloud-SOC)                          |
-| Security Event Monitoring                      | [Azure Cloud SOC / Honeynet](https://github.com/steveabner/Cloud-SOC)                          |
+| Active Directory and Windows Server Administration | [Active Directory Homelab](https://github.com/steveabner/S2016-Helpdesk) |
+| SIEM Deployment, Log Analysis, and Security Monitoring | [Azure Cloud SOC / Honeynet](https://github.com/steveabner/Cloud-SOC) |
 | Vulnerability Scanning and Remediation         | [OpenVAS Vulnerability Management Lab](https://github.com/steveabner/Vulnerability-Management) |
 | Help Desk System Deployment                    | [osTicket Installation](https://github.com/steveabner/osticket-prereqs)                        |
 | Help Desk Administration and Configuration     | [osTicket Post-Installation Configuration](https://github.com/steveabner/post-install-config)  |
