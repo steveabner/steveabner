@@ -50,7 +50,7 @@ I am especially interested in Security Operations, Blue Team operations, vulnera
   <img src="https://img.shields.io/badge/-Active_Directory-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/-Windows_Server-0078D4?&style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/-Windows_11-0078D4?&style=for-the-badge&logo=windows11&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=powershell&logoColor=white" />
+ <!-- <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=powershell&logoColor=white" /> -->
 </div>
 
 ### Help Desk and Support
