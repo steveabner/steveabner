@@ -20,6 +20,7 @@ I am especially interested in Security Operations, Blue Team operations, vulnera
 
 | Skill                                          | Associated Project                                                                             |
 | ---------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| Email Analysis, Threat Hunting, and Investigation Documentation | [MYDFIR Forge Threat Hunt Portfolio](https://github.com/steveabner/MYDFIR-Forge-Threat-Hunt-Portfolio) |
 | Active Directory and Windows Server Administration | [Active Directory Homelab](https://github.com/steveabner/S2016-Helpdesk) |
 | SIEM Deployment, Log Analysis, and Security Monitoring | [Azure Cloud SOC / Honeynet](https://github.com/steveabner/Cloud-SOC) |
 | Vulnerability Scanning and Remediation         | [OpenVAS Vulnerability Management Lab](https://github.com/steveabner/Vulnerability-Management) |
