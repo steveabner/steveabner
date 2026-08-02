@@ -88,6 +88,18 @@ I am especially interested in Security Operations, Blue Team operations, vulnera
 
 ## Projects
 
+### [MYDFIR Forge Threat Hunt Portfolio](https://github.com/steveabner/MYDFIR-Forge-Threat-Hunt-Portfolio)
+
+* Documenting threat hunts, security investigations, and detection exercises completed through the MYDFIR Forge
+* Practicing email analysis, evidence collection, incident documentation, and investigative reasoning
+* Mapping relevant findings and attacker behavior to the MITRE ATT&CK framework
+* Building reusable investigation reports, detection queries, and SOC-focused case studies
+* Beginning with the Blue Team Labs Online investigation **The Planet’s Prestige**
+
+[View the MYDFIR Forge Threat Hunt Portfolio](https://github.com/steveabner/MYDFIR-Forge-Threat-Hunt-Portfolio)
+
+---
+
 ### [Active Directory Homelab](https://github.com/steveabner/S2016-Helpdesk)
 
 * Deployed a Windows Server environment using VirtualBox
