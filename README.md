@@ -63,9 +63,27 @@ I am especially interested in Security Operations, Blue Team operations, vulnera
 
 ## Certifications
 
+<div>
+  <a href="https://www.coursera.org/account/accomplishments/specialization/F2H3SA6KQJB5">
+    <img src="https://img.shields.io/badge/-Google_Cybersecurity_Professional_Certificate-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
+  </a>
+  <br>
+
+  <a href="https://app.kajabi.com/certificates/27bce230">
+    <img src="https://img.shields.io/badge/-Leveled_Cybersecurity_Masterclass-6C63FF?&style=for-the-badge&logoColor=white" />
+  </a>
+  <br>
+
+  <a href="https://github.com/steveabner/Certificates">
+    <img src="https://img.shields.io/badge/-Simply_Cyber_Cybersecurity_101-1F2937?&style=for-the-badge&logo=hackthebox&logoColor=white" />
+  </a>
+</div>
+
+<!-- ## Certifications
+
 * [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/F2H3SA6KQJB5)
 * [Leveled Cybersecurity Masterclass Certificate](https://app.kajabi.com/certificates/27bce230)
-* [Simply Cyber Cybersecurity 101 Certificate](https://github.com/steveabner/Certificates)
+* [Simply Cyber Cybersecurity 101 Certificate](https://github.com/steveabner/Certificates) -->
 
 ## Projects
 
